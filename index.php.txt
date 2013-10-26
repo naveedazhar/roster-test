@@ -2,4 +2,8 @@
 
 phpinfo();
 
+function getroster($month) {
+return $month * 2;
+}
+
 ?>
